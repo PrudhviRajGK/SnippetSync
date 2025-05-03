@@ -1,0 +1,2 @@
+# SnippetSync
+MITHacks Submission
