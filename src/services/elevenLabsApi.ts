@@ -1,7 +1,7 @@
 
 import { toast } from 'sonner';
 
-const API_KEY = 'sk_91b5d5431825a1d48250fb27438bf6db8851e8f150f7d029';
+const API_KEY = '';
 const API_URL = 'https://api.elevenlabs.io/v1';
 
 // Voice IDs - using a popular voice from ElevenLabs
