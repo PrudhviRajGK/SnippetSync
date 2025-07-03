@@ -1,7 +1,7 @@
 
 import { toast } from 'sonner';
 
-const API_KEY = 'AIzaSyDp4LnBQXjpjzuiOs8TDC6q9VzR66oLI8E';
+const API_KEY = '';
 const API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent';
 
 export interface LearningTopic {
